@@ -1,0 +1,7 @@
+ADD BUILDING b1
+ADD FLOOR b1 7
+ADD CONFROOM b1 7 c1 5
+BOOK 1:5 b1 7 c1 rahul
+BOOK 1:4 b1 7 c1 sagar
+CANCEL 1:5 b1 7 c1 rahul
+BOOK 1:4 b1 7 c1 sagar
